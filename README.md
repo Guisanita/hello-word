@@ -1,2 +1,2 @@
 # hello-word
-Repositório para exercício do curso Densenvolvimento de Softaware Cubos Academy
+Repositório para exercício do curso Densenvolvimento de Software Cubos Academy
